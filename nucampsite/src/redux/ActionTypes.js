@@ -6,6 +6,10 @@ export const ADD_COMMENT = 'ADD_COMMENT';
 export const ADD_COMMENTS = 'ADD_COMMENTS';
 export const COMMENTS_FAILED = 'COMMENTS_FAILED';
 
+export const COMMENT = 'COMMENT';
+export const COMMENTS = 'COMMENTS';
+export const FAILED = 'FAILED';
+
 export const PROMOTIONS_LOADING = 'PROMOTIONS_LOADING';
 export const ADD_PROMOTIONS = 'ADD_PROMOTIONS';
 export const PROMOTIONS_FAILED = 'PROMOTIONS_FAILED';
